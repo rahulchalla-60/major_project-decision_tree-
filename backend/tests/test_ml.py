@@ -1,6 +1,6 @@
 import unittest
 import numpy as np
-from models.commodity import Commodity, commodity_dict
+from backend.models.commodity_model import Commodity, commodity_dict
 
 class TestCommodityModel(unittest.TestCase):
 
